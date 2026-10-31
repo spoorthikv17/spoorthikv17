@@ -1,62 +1,108 @@
-<h1 align="center">Hey there! 👋 I'm Spoorthi</h1>
+<h1 align="center">Hi 👋, I'm Spoorthi</h1>
 
-<h3 align="center">CSBS Student | Python Developer | AI & Data Enthusiast</h3>
+<h3 align="center">Python Developer | Data Analytics | AI & Machine Learning Enthusiast</h3>
 
 <p align="center">
-  Building, learning, exploring and contributing to technology.
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1000&color=8A2BE2&center=true&vCenter=true&width=650&lines=Passionate+about+Python+Development;Exploring+Data+Analytics;Building+AI-Powered+Applications;Learning+and+Growing+Every+Day" />
 </p>
 
 ---
 
-### 👩‍💻 About Me
+## 👩‍💻 About Me
 
-* 🎓 Computer Science and Business Systems (CSBS) Student
-* 💻 Interested in Python Development and Artificial Intelligence
-* 📊 Exploring Data Analytics and Machine Learning
-* 🌱 Currently learning Data Structures & Algorithms
-* 🤝 Interested in Open-Source Contributions
-* 🚀 Believe in learning by building real-world projects
+* 🎓 Computer Science and Business Systems (CSBS) Student.
+* 💻 Interested in Python Development and Software Engineering.
+* 📊 Exploring Data Analytics and Data Visualization.
+* 🤖 Passionate about Artificial Intelligence and Machine Learning.
+* 🚀 Built **AI CFO – Intelligent Financial Management System**.
+* 🌱 Currently strengthening my Python and DSA skills.
 
-### 🛠️ Technologies & Tools
+---
 
-**Languages:** Python, SQL
+## 🛠️ Technical Skills
 
-**Data & Analytics:** Pandas, NumPy, Power BI, Tableau, Excel
+### 💻 Programming Languages
 
-**AI & Machine Learning:** TensorFlow, XGBoost, Scikit-learn
+<p>
+  <img src="https://skillicons.dev/icons?i=python,mysql" />
+</p>
 
-**Tools:** Git, GitHub, VS Code, MongoDB, Streamlit, Plotly
+### 📊 Data Analytics
 
-### 🚀 Featured Project
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+</p>
 
-**AI CFO – Intelligent Financial Management System**
+### 🤖 AI & Machine Learning
 
-An interactive financial application designed to simplify financial tracking and provide intelligent financial insights.
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow" />
+  <img src="https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+</p>
 
-* Financial income and expense analysis.
-* Interactive financial dashboards.
-* Income forecasting using XGBoost.
+### ⚙️ Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,mongodb" />
+</p>
+
+---
+
+## 🚀 Featured Project
+
+### 💰 AI CFO – Intelligent Financial Management System
+
+An AI-powered financial application combining data analytics, machine learning and intelligent financial insights.
+
+**Key Features:**
+
+* Interactive financial dashboard.
+* Income and expense analysis.
+* Financial forecasting using XGBoost.
+* Anomaly and risk analysis.
 * AI-powered financial recommendations.
-* Data visualization using Plotly.
+* AI CFO chatbot.
 
-### 🌍 Open Source
-
-I'm interested in contributing to open-source projects, collaborating with developers and learning from the developer community.
-
-### 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-### 🤝 Let's Connect
-
-* LinkedIn: https://www.linkedin.com/feed/
-* Email: spoorthikv.feb17@gmail.com
+🔗 **[Explore AI CFO Repository](https://github.com/spoorthikv17/AI---CFO)**
 
 ---
 
+## 📚 Currently Exploring
+
+* Advanced Python Programming
+* Data Structures and Algorithms
+* Machine Learning
+* Data Analytics
+* Open-Source Development
+
+---
+
+## 📊 GitHub Statistics
+
 <p align="center">
-  <i>Learning continuously. Building meaningfully. Contributing openly.</i>
+  <img src="https://github-readme-stats.vercel.app/api?username=spoorthikv17&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spoorthikv17&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/spoorthikv17">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<h3 align="center">✨ Learning • Building • Exploring ✨</h3>
+<p align="center">Turning ideas into intelligent solutions.</p>
