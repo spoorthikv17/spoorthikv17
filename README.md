@@ -31,7 +31,6 @@
 ### 📊 Data Analytics & Visualization
 
 <p>
-  <img src="https://skillicons.dev/icons?i=pandas" onerror="this.style.display='none'"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
@@ -95,15 +94,6 @@
 
 <p align="center"> <img width="70%" src="https://streak-stats.demolab.com?user=spoorthikv17&theme=tokyonight&hide_border=true" /> </p>
 
-## 📈 Contribution Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=spoorthikv17&theme=tokyo-night&hide_border=true"
-    width="100%"
-    alt="GitHub Contribution Activity Graph"
-  />
-</p>
 
 ---
 
