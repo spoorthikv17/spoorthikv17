@@ -52,30 +52,6 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,mongodb" />
 </p>
 
-### 📊 Data Analytics
-
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-</p>
-
-### 🤖 AI & Machine Learning
-
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow" />
-  <img src="https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
-</p>
-
-### ⚙️ Tools & Technologies
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,mongodb" />
-</p>
-
 ---
 
 ## 🚀 Featured Project
@@ -122,7 +98,11 @@
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=spoorthikv17&bg_color=1a1b27&color=bb9af7&line=9d7cd8&point=ffffff&area=true&hide_border=true" width="100%"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=spoorthikv17&theme=tokyo-night&hide_border=true"
+    width="100%"
+    alt="GitHub Contribution Activity Graph"
+  />
 </p>
 
 ---
