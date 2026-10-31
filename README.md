@@ -2,10 +2,10 @@
 
 <h3 align="center">Python Developer | Data Analytics | AI & Machine Learning Enthusiast</h3>
 
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1000&color=8A2BE2&center=true&vCenter=true&width=650&lines=Passionate+about+Python+Development;Exploring+Data+Analytics;Building+AI-Powered+Applications;Learning+and+Growing+Every+Day" /> </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=spoorthikv17&label=PROFILE+VIEWS&color=9370DB&style=for-the-badge" />
 </p>
-
 ---
 
 ## 👩‍💻 About Me
